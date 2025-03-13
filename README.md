@@ -43,15 +43,14 @@ In essence, choosing the threshold(P*) involves a trade-off between capturing mo
 
 A threshold choice of 0.25% is recommended, as it captures 90% of virus-positive areas. This is only slightly lower than the 94% captured at a 0.1% threshold, but significantly reducing the predicted at-risk points from 31,000 to 19,000. Putting it another way, 11% of spray locations would be reaching areas where the virus is present. 
 
-
-| P* Threshold (default = 50%) | Estimated Percent(%) of Virus-Positive Areas Captured | Total Time-Locations to Spray | "Percentage of Sprays Targeting Virus-Active Areas (PPD)" |
-|-----------------------------|-------------------------------------------------------|------------------------------|-----------------------------------------------|
-| 0.1%                        | 0.939891                                              | 31152                        | 0.097718                                      |
-| 0.25%                       | 0.901639                                              | 19019                        | 0.110879                                      |
-| 0.5%                        | 0.852459                                              | 12526                        | 0.127589                                      |
-| 1%                          | 0.786885                                              | 8031                         | 0.145473                                      |
-| 5%                          | 0.595628                                              | 2547                         | 0.198962                                      |
-| 10%                         | 0.480874                                              | 1380                         | 0.234211                                      |
+| (P*) Threshold | Percent(%) of virus-positive areas captured | Total time-locations to spray | PPD      |
+|----------------|---------------------------------------------|------------------------------|----------|
+| 0.1%          | 0.934911                                    | 32465                        | 0.088120 |
+| 0.25%          | 0.887574                                    | 19588                        | 0.098945 |
+| 0.5%          | 0.863905                                    | 12637                        | 0.112916 |
+| 1%             | 0.810651                                    | 8074                         | 0.127679 |
+| 5%             | 0.644970                                    | 2780                         | 0.175523 |
+| 10%            | 0.526627                                    | 1570                         | 0.197339 |
 
 
 
