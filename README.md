@@ -2,7 +2,7 @@
 
 ## *Motivation and Overview*
 
-10 years on from the Kaggle West Nile Virus competition, and there is still no cure and no vaccine for West Nile Virus. It is one of the biggest threats to humans from mosquitos, and still remains a global concern, including in the city of Chicago where the kaggle competition was initially focussed. Since then, our planet has seen a global pandemic, which has highlighted the need for us to understand the spread of disease, and consolodate our knowledge on the underlying mechanisms of disease transmission.
+10 years on from the Kaggle West Nile Virus competition, and there is still no cure nor vaccine for the West Nile Virus. It is one of the biggest threats to humans from mosquitos, and still remains a global concern, including in the city of Chicago where the kaggle competition was initially focussed. Since then, our planet has seen a global pandemic, which has highlighted the need for us to understand the spread of disease, and consolodate our knowledge on the underlying mechanisms of disease transmission.
 
 The original aim of the competition was to predict outbreaks of West Nile virus in mosquitos in Chicago, to help the authorities allocate resources towards targetted interventions. This project will take a practical approach to developing a model that is not only accurate but also interpretable and actionable. The goal is to create a generalised model that can provide clear recommendations for targeted interventions, and contribute to our understanding on mosquito transmitted disease.
 
